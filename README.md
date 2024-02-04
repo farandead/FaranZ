@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faran Zafar</h1>
 <h3 align="center">I'm a passionate final year Computer Science Student. I really like ML and Cybersecurity</h3>
-<img align = "right" width="400" src="[https://www.google.com/search?sca_esv=a48dbaf87d89a746&sxsrf=ACQVn0_wBt_2z7qFrET8R98y0PUwnA5P7g:1707061341870&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwi3-JCHg5KEAxX-7AIHHW5pB4QQ0pQJegQIDBAB&biw=1920&bih=945&dpr=1#imgrc=QuqbC-xCVJtgOM](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)" alt="coding" srcset="">
+<img align = "right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" srcset="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farandead&label=Profile%20views&color=0e75b6&style=flat" alt="farandead" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farandead" alt="farandead" /></a> </p>
